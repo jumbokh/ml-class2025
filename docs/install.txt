@@ -1,0 +1,7 @@
+ollama pull qwen2.5-coder
+conda install numpy pandas matplotlib scikit-learn scipy seaborn
+conda install jupyter ipython  notebook
+
+help me to write a program. useing KNN algorithm to analysis iris dataset at scikit-learn.
+
+帮我写一支代码，使用KNN演算法分析scikit-learn里面的鸢尾花资料集
