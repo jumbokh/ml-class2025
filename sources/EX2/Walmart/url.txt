@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms
+https://www.kaggle.com/code/rajmehra03/bike-sharing-demand-rmsle-0-3194
