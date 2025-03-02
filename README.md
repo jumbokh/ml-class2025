@@ -7,3 +7,5 @@
 ```
 ### 參考
 * [James Yeh](https://gist.github.com/yehjames)
+* [非監督式學習 K-means 分群](https://andy6804tw.github.io/crazyai-ml/6.%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92k-means%E5%88%86%E7%BE%A4/#k-means)
+* [Crazyai](https://github.com/andy6804tw/crazyai-ml)
