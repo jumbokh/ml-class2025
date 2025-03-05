@@ -1,3 +1,9 @@
+---
+noteId: "bc0ec140f99d11ef9b993f80f019500d"
+tags: []
+
+---
+
 This folder contains the code used to create the plots in the examples.  
 The code is not very difficult, however I never meant for it to go out to readers. 
  It’s not the cleanest code nor very well documented.  Most of the time I threw 
