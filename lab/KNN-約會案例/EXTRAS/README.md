@@ -34,3 +34,4 @@ Peter Harrington
 每周消费的冰淇淋公升数
 文本文件数据格式如下(最后一列为标签，3是极具魅力的人，2是魅力一般的人，1是不喜欢的人)：
 ```
+![data](https://github.com/jumbokh/ml-class2025/blob/main/images/dateWeb.jpg)
