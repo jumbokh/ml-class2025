@@ -13,6 +13,7 @@ how it works or why I did something please ask, I will be more than happy to ans
 any questions.  
 Peter Harrington
 ```
+https://zhuanlan.zhihu.com/p/114396747
 海伦使用约会网站寻找约会对象。经过一段时间之后，她发现曾交往过三种类型的人: 不喜欢的人
 
 魅力一般的人
