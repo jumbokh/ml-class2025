@@ -10,3 +10,5 @@
 * [非監督式學習 K-means 分群](https://andy6804tw.github.io/crazyai-ml/6.%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92k-means%E5%88%86%E7%BE%A4/#k-means)
 * [Crazyai](https://github.com/andy6804tw/crazyai-ml)
 * [machinelearninginaction](https://github.com/jumbokh/machinelearninginaction)
+* [Post pruning decision trees with cost complexity pruning](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html)
+* [Python 机器学习 决策树 cart剪枝](https://www.cjavapy.com/article/3264/)
