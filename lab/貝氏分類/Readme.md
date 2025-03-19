@@ -10,6 +10,7 @@
 
 ### 貝氏定理 (Bayes' Theorem)
 貝氏定理是貝氏統計學的核心，它提供了一種根據新證據更新先驗信念的方法。定理公式如下：
+$P(H|E) = \frac{P(E|H) \times P(H)}{P(E)}$
 
 \[
 P(H|E) = \frac{P(E|H) \times P(H)}{P(E)}
