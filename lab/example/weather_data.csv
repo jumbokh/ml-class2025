@@ -1,0 +1,15 @@
+Day,Outlook,Temp,Humidity,Wind,Tennis
+D1,Sun,Hot,High,Weak,No
+D2,Sun,Hot,High,Strong,No
+D3,Cloud,Hot,High,Weak,Yes
+D4,Rain,Mild,High,Weak,Yes
+D5,Rain,Cool,Normal,Weak,Yes
+D6,Rain,Cool,Normal,Strong,No
+D7,Cloud,Cool,Normal,Strong,Yes
+D8,Sun,Mild,High,Weak,No
+D9,Sun,Cool,Normal,Weak,Yes
+D10,Rain,Mild,Normal,Weak,Yes
+D11,Sun,Mild,Normal,Strong,Yes
+D12,Cloud,Mild,High,Strong,Yes
+D13,Cloud,Hot,Normal,Weak,Yes
+D14,Rain,Mild,High,Strong,No
