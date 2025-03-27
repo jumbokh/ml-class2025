@@ -12,3 +12,5 @@
 * [machinelearninginaction](https://github.com/jumbokh/machinelearninginaction)
 * [Post pruning decision trees with cost complexity pruning](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html)
 * [Python 机器学习 决策树 cart剪枝](https://www.cjavapy.com/article/3264/)
+* [精通機器學習-2](https://hands1ml.apachecn.org/)
+    * [coded](https://github.com/ageron/handson-ml2)
