@@ -1,0 +1,8 @@
+想要給本科生的機器學習來個綜合練習, 
+要使用: 隨機森林, 貝氏分類, SVM 及集成學習, 
+請提供適當的常見資料集, 
+以 python+scikit-learn 為學習套件, 
+一步一步的設計實驗, 包含資料可視化, 
+特徵工程及分析和混淆矩陣的視圖, 
+最好能使用: gridsearchcv, pipline, standard scaler, learning curve
+等常見分析方法, 最後給予總結比較表格
