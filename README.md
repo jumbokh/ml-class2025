@@ -15,3 +15,4 @@
 * [精通機器學習-2](https://hands1ml.apachecn.org/)
     * [coded](https://github.com/ageron/handson-ml2)
 * [Ensemble](https://www.youtube.com/watch?v=tH9FH1DH5n0)
+* [手把手的深度學習實務](https://github.com/jumbokh/hands-on-DL)
