@@ -16,3 +16,5 @@
     * [coded](https://github.com/ageron/handson-ml2)
 * [Ensemble](https://www.youtube.com/watch?v=tH9FH1DH5n0)
 * [手把手的深度學習實務](https://github.com/jumbokh/hands-on-DL)
+* [AI Models gpt-4.1](https://github.com/marketplace/models/azure-openai/gpt-4-1)
+* [AI models select](https://github.com/marketplace/models?fbclid=IwY2xjawJ5gnZleHRuA2FlbQIxMABicmlkETFoY1RqUFBGeUFhUXlWNkg0AR7Q1-dk1L4uypIXRfEM8gADb4yqBff7FDfEvkuJmEfuP_JB50Y_IIdm2wqD9w_aem_pcw8PkpN6QkAQxa5dlcZGg)
