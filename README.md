@@ -6,6 +6,8 @@
 我想設計一個實驗給學生操作, 請學生下指令請AI設計程式在 visual code 中執行, 最好是資料結構中的演算法, 而且以python撰寫
 ```
 ### 參考
+* [蔡炎龍 - MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
+* [蔡炎龍 - Deep Learning Basic](https://github.com/yenlung/Deep-Learning-Basics)
 * [James Yeh](https://gist.github.com/yehjames)
 * [非監督式學習 K-means 分群](https://andy6804tw.github.io/crazyai-ml/6.%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92k-means%E5%88%86%E7%BE%A4/#k-means)
 * [Crazyai](https://github.com/andy6804tw/crazyai-ml)
