@@ -85,7 +85,7 @@ def selectmodel(train,label):
 
 
 
-d=getdata('train.csv')      #getdata返回经处理过的数据
+d=getdata('data//train.csv')      #getdata返回经处理过的数据
 corrmat = d.corr()          #计算相关系数
 rela=list(corrmat['SalePrice'].abs().sort_values().index)[:-1]      #将特征列按相关性大小排序
 features=68
@@ -93,7 +93,7 @@ select_feat=rela[-features:]            #取相关性好的前68列
 
 train,label=d.drop(['SalePrice'],axis=1,inplace=False),d['SalePrice']
 train=train[select_feat]
-d=gettarget('test.csv')
+d=gettarget('data//test.csv')
 idi,target=d['Id'],d.drop(['Id'],axis=1,inplace=False)
 target=target[select_feat]
 
