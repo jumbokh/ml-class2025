@@ -1,5 +1,0 @@
-https://www.kaggle.com/code/jumbokh/classification-and-predict-kernels-f1-score-100/edit
-https://www.kaggle.com/datasets/saurabhshahane/mango-varieties-classification/code
-
-II. CNN
-https://www.kaggle.com/code/jumbokh/manggo-classification-cnn-with-vgg16/edit
