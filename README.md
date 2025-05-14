@@ -24,3 +24,4 @@
 * [Gemini](https://gemini.google.com/app)
 * [claude](https://claude.ai/new)
 * [KNN算法实战——红葡萄酒质量分类](https://zhuanlan.zhihu.com/p/52042560)
+     * [notebook](https://www.heywhale.com/mw/project/5c0ddeec22c447002cedb0b4)
