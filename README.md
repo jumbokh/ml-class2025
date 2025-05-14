@@ -23,3 +23,4 @@
 * [chatbox arena](https://lmarena.ai/)
 * [Gemini](https://gemini.google.com/app)
 * [claude](https://claude.ai/new)
+* [KNN算法实战——红葡萄酒质量分类](https://zhuanlan.zhihu.com/p/52042560)
