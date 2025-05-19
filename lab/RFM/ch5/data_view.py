@@ -5,10 +5,14 @@
 import pandas as pd
 
 
-datafile= r'./data/TB201812.xls'  #原始数据,第一行为属性标签
-resultfile = r'./data/view.xls' #数据探索结果表
+datafile= r'./data/TB201812.xlsx'  #原始数据,第一行为属性标签
+resultfile = r'./data/view.xlsx' #数据探索结果表
 
-data = pd.read_excel(datafile, encoding = 'utf-8') #读取原始数据，指定UTF-8编码（需要用文本编辑器将数据装换为UTF-8编码）
+try:
+	data = pd.read_excel(datafile, engine='openpyxl') #读取原始数据
+except FileNotFoundError:
+	print(f"Error: File not found at path: {datafile}")
+	exit(1)
 data=data[['订单付款时间','买家会员名','买家实际支付金额','数据采集时间']]
 view = data.describe(percentiles = [], include = 'all').T #包括对数据的基本描述，percentiles参数是指定计算多少的分位数表（如1/4分位数、中位数等）；T是转置，转置后更方便查阅
 view['null'] = len(data)-view['count'] #describe()函数自动计算非空值数，需要手动计算空值数

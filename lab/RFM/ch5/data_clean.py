@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-aa =r'./data/TB201812.xls'
-resultfile=r'./data/data.xls'
+aa =r'./data/TB201812.xlsx'
+resultfile=r'./data/data.xlsx'
 df = pd.DataFrame(pd.read_excel(aa))
 df1=df[['订单付款时间','买家会员名','买家实际支付金额','数据采集时间']]
 #去除空值，订单付款时间非空值才保留

@@ -7,8 +7,8 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 #from sklearn.manifold import
 
-inputfile = r'./data/transformdata.xls' #待聚类的数据文件
-outputfile=r'./data/data_type.xls'
+inputfile = r'./data/transformdata.xlsx' #待聚类的数据文件
+outputfile=r'./data/data_type.xlsx'
 #读取数据并进行聚类分析
 data = pd.read_excel(inputfile) #读取数据
 #利用K-Means聚类算法对客户数据进行客户分群，聚成4类
