@@ -5,6 +5,11 @@
 請以 python 語法, 幫我設計一個 insertion sort 演算法代碼
 我想設計一個實驗給學生操作, 請學生下指令請AI設計程式在 visual code 中執行, 最好是資料結構中的演算法, 而且以python撰寫
 ```
+### 臉部識別
+```
+请帮我以opencv 及 python 语言, 写一只脸部辨识程序, 并可以识别种族, 性别及年纪
+```
+##
 ### xgboost install
 ```
 pip install xgboost -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
