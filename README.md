@@ -35,3 +35,4 @@ pip install xgboost -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mir
 * [claude](https://claude.ai/new)
 * [KNN算法实战——红葡萄酒质量分类](https://zhuanlan.zhihu.com/p/52042560)
      * [notebook](https://www.heywhale.com/mw/project/5c0ddeec22c447002cedb0b4)
+* [Nvidia install](https://medium.com/@EricChou711/nvidia-jetson-orin-nano-%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AE%8C%E6%95%B4%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-pytorch-tensorflow-opencv-cuda%E7%89%88%E6%9C%AC-683271bfaa42)
