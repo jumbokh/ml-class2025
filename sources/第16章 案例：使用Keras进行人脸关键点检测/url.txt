@@ -1,0 +1,19 @@
+用keras实现人脸关键点检测
+
+数据集：https://pan.baidu.com/s/1cnAxJJmN9nQUVYj8w0WocA
+
+https://developer.aliyun.com/article/617845
+
+tensorflow  1.4.0
+h5py 2.7.0 
+hdf5 1.8.15.1
+Keras     2.0.8
+opencv-python     3.3.0
+numpy    1.13.3+mkl
+
+=====
+conda create -n tf python=3.5
+conda activate tf
+pip install https://mirrors.tuna.tsinghua.edu.cn/pypi/web/packages/ad/8b/acaf89cdccbbbeac798edc45bd8ca92b1ff97b9c49a976c9cc0540b81b74/tensorflow-1.4.0-cp35-cp35m-win_amd64.whl#sha256=15e2f6ea16990811f0a109615898a19359b4af1564f3cf96103be7ab395b370e
+
+pip install xgboost -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
